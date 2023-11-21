@@ -1,0 +1,1 @@
+{"version":5,"vars":[{"containerName":"","name":"strict","kind":2,"line":2},{"containerName":"","name":"warnings","line":3,"kind":2},{"line":4,"kind":2,"containerName":"Find","name":"Lib"},{"name":"ExampleModule","line":7,"kind":12},{"name":"import","containerName":"main::","kind":12,"line":7},{"containerName":"hello","name":"ExampleModule","line":11,"kind":12}]}

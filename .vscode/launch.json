@@ -8,7 +8,7 @@
             "type": "perl",
             "request": "launch",
             "name": "Perl-Debug",
-            "program": "${workspaceFolder}/src/hello_world.pl",
+            "program": "${workspaceFolder}/src/HelloWorld.pl",
             "stopOnEntry": true,
             "reloadModules": true
         }
